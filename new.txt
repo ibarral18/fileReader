@@ -1,0 +1,50 @@
+1Walmart
+3Apple
+5Amazon.com
+7McKesson
+9AT&T
+11Chevron
+13General Motors
+15Alphabet
+17Walgreens Boots Alliance
+19Verizon Communications
+21General Electric
+23Phillips 66
+25Bank of America
+27Home Depot
+29Wells Fargo
+31Marathon Petroleum
+33Anthem
+35DuPont de Nemours
+37Johnson & Johnson
+39Target
+41United Parcel Service
+43Intel
+45Procter & Gamble
+47FedEx
+49Archer Daniels Midland
+51Centene
+53Walt Disney
+55HP
+57Facebook
+59Energy Transfer
+61Pfizer
+63Morgan Stanley
+65Cigna
+67HCA Healthcare
+69Delta Air Lines
+71New York Life Insurance
+73Nationwide
+75Liberty Mutual Insurance Group
+77Honeywell International
+79TIAA
+81Oracle
+83World Fuel Services
+85TJX
+87Deere
+89Enterprise Products Partners
+91Publix Super Markets
+93Exelon
+953M
+97CHS
+99Progressive

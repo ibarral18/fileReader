@@ -1,0 +1,200 @@
+1
+Walmart
+2
+Exxon Mobil
+3
+Apple
+4
+Berkshire Hathaway
+5
+Amazon.com
+6
+UnitedHealth Group
+7
+McKesson
+8
+CVS Health
+9
+AT&T
+10
+AmerisourceBergen
+11
+Chevron
+12
+Ford Motor
+13
+General Motors
+14
+Costco Wholesale
+15
+Alphabet
+16
+Cardinal Health
+17
+Walgreens Boots Alliance
+18
+JPMorgan Chase
+19
+Verizon Communications
+20
+Kroger
+21
+General Electric
+22
+Fannie Mae
+23
+Phillips 66
+24
+Valero Energy
+25
+Bank of America
+26
+Microsoft
+27
+Home Depot
+28
+Boeing
+29
+Wells Fargo
+30
+Citigroup
+31
+Marathon Petroleum
+32
+Comcast
+33
+Anthem
+34
+Dell Technologies
+35
+DuPont de Nemours
+36
+State Farm Insurance
+37
+Johnson & Johnson
+38
+IBM
+39
+Target
+40
+Freddie Mac
+41
+United Parcel Service
+42
+Lowe's
+43
+Intel
+44
+MetLife
+45
+Procter & Gamble
+46
+United Technologies
+47
+FedEx
+48
+PepsiCo
+49
+Archer Daniels Midland
+50
+Prudential Financial
+51
+Centene
+52
+Albertsons
+53
+Walt Disney
+54
+Sysco
+55
+HP
+56
+Humana
+57
+Facebook
+58
+Caterpillar
+59
+Energy Transfer
+60
+Lockheed Martin
+61
+Pfizer
+62
+Goldman Sachs Group
+63
+Morgan Stanley
+64
+Cisco Systems
+65
+Cigna
+66
+AIG
+67
+HCA Healthcare
+68
+American Airlines Group
+69
+Delta Air Lines
+70
+Charter Communications
+71
+New York Life Insurance
+72
+American Express
+73
+Nationwide
+74
+Best Buy
+75
+Liberty Mutual Insurance Group
+76
+Merck
+77
+Honeywell International
+78
+United Continental Holdings
+79
+TIAA
+80
+Tyson Foods
+81
+Oracle
+82
+Allstate
+83
+World Fuel Services
+84
+Massachusetts Mutual Life Insurance
+85
+TJX
+86
+ConocoPhillips
+87
+Deere
+88
+Tech Data
+89
+Enterprise Products Partners
+90
+Nike
+91
+Publix Super Markets
+92
+General Dynamics
+93
+Exelon
+94
+Plains GP Holdings
+95
+3M
+96
+AbbVie
+97
+CHS
+98
+Capital One Financial
+99
+Progressive
+100
+Coca-Cola
